@@ -1,0 +1,47 @@
+/* start of container and row*/
+.container{
+   width:1300;
+   margin:auto;
+}
+
+
+.row{
+  display:flex;
+  flex-wrap:wrap;
+}
+
+.box_1 {
+   height: 370px;
+   margin:auto;
+   background-color: rgb(202, 195, 240);
+   border: solid rgb(120, 116, 155);
+}
+h1{
+   font-size: 40px;
+   color:rgb(17, 19, 107);
+}
+
+p{
+   font-size: 20px;
+}
+
+
+.box_1 .row {
+   width:40%;
+   margin:20px;
+   
+
+}
+
+.box_1.box_1_1 {
+  width: 45%;
+   margin:auto;
+}
+
+.box_1_2 img{
+   width:100%;
+   
+
+
+}
+
